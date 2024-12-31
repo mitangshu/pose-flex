@@ -1,8 +1,5 @@
 # Pose-Flex: AI-Powered Workout Analysis
 
-
-![video]([https://github.com/mitangshu/pose-flex/blob/master/output/SeatedCableRow.mp4.avi](https://github.com/mitangshu/pose-flex/blob/01aacacee111806b357d9638879b5266de603dd9/output/SeatedCableRow.mp4.avi))
-
 https://github.com/user-attachments/assets/b892f67b-3608-4f2f-a30d-74d4cbf5c562
 
 ## Introduction

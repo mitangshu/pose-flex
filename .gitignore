@@ -1,2 +1,4 @@
-data/
+data/back
 models/
+__pycache__/
+*.pyc
